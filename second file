@@ -1,1 +1,12 @@
 this is my second file in github
+<<<<<<< HEAD
+=======
+
+global to local
+
+this is the third change
+
+this is change in golobal
+>>>>>>> 3776608095a02adcb926ccd3099bf901f0faf416
+
+this is changes by pragati
